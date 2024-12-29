@@ -1,0 +1,6 @@
+# 新版易支付源码彩虹支付多通道轮询一键对接、第三方支付、京东支付、免签约支付
+
+新版易支付源码彩虹支付多通道轮询一键对接、第三方支付、京东支付、免签约支付<br>演示地址：<br>管理后台：http://example.com/admin/example.com<br>          admin    123456<br>用户后台：http://example.com/user/example.com<br>          13123456789    123456<br>新增功能：<br>example.com，前台多套模板可切换，前台用户付费注册，后台可设置金额<br>example.com,轮训支付,网银支付,京东支付,实名认证。<br>example.com,VX，钱包等支付，填写地址ID和秘钥就可以一键对接<br>example.com，订单明细，可添加用户组，用户购买，可设置QQ，微信，支付宝等快捷登陆。<br>example.com，拍前请联系商家查看演示再拍！<br><br>演示截图：<br><br><br><br><br><br><br><br>温馨提示：如遇到网盘资源分享下载不了的请联系QQ重新发送源码┌────────────────────────────────────────────┐│目前本店源码还在往此平台转移数据,很多文件没有上传至网盘,很多都还不是自动; ││购买时请注意购买按钮上边的保障服务内是否有标示,如果有则表示源码是自动发货,如果没有则 ││表示需要联系客服手动发货的（手动发货的源码,客服也会在12小时内将文件发送至您的邮箱）; ││购买前请尽量联系一下客服,简单给你介绍后,确认是否是您的源码; ││如果是直接购买用户请一定认真阅读以下说明（付款即代表同意以下说明）不读后果自负│└────────────────────────────────────────────┘<br>演示说明：因源码过多，我们不可能每天都盯着原站无法确定原站的模板是否已更新或者网站是否已关闭所以演示以图片为准，演示图片为本地测试时的截图！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/txMjd" style="color: red;">https://mega-file.org/txMjd</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
